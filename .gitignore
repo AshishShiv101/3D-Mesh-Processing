@@ -1,0 +1,53 @@
+# ===============================
+# Python & Virtual Environment
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment folder
+handmesh/
+.env/
+.venv/
+env/
+venv/
+
+# ===============================
+# OS / IDE files
+# ===============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# ===============================
+# Project outputs
+# ===============================
+# Mesh processing outputs
+/output/normalized/
+output/quantized/
+output/reconstructed/
+output/plots/
+
+# Reports and auto-generated screenshots
+/report/screenshots/
+report/final_report.pdf
+
+# ===============================
+# Temporary or backup files
+# ===============================
+*.bak
+*.tmp
+*.swp
+*.swo
+*.zip
+*.tar
+*.gz
+
+# ===============================
+# Jupyter or notebook checkpoints (if used)
+# ===============================
+.ipynb_checkpoints/

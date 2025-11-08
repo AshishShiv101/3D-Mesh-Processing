@@ -1,0 +1,13 @@
+# Core
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.9.2
+
+# 3D mesh handling
+trimesh==4.4.9
+open3d==0.19.0   # <-- py3.12-compatible
+
+# Helpers
+pyglet==2.0.15
+scipy==1.14.1
+tqdm==4.66.5
